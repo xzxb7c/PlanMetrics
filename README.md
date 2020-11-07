@@ -1,2 +1,2 @@
-# PTV_Stat
-Varian Eclipse ESAPI PTV Statistics Script 
+# PLanMetrics
+Varian Eclipse ESAPI 30 Fraction Normal Tissue Tolerance Check
