@@ -1,0 +1,64 @@
+﻿Optic Pathway,Vmax,44.0,Gy,0.500,cc
+Optic Pathway,Vmax,52.0,Gy,0.035,cc
+Eye,Mean Dose,NA,NA,38.000,Gy
+Eye,Vmax,45.0,Gy,0.035,cc
+Lens,Vmax,10.0,Gy,0.035,cc
+Eyelid,Vmax,32.0,Gy,0.035,cc
+Lacrimal Gland,Vmax,20.0,Gy,1.000,cc
+Cochlea,Vmax,36.0,Gy,0.500,cc
+Cochlea,Vmax,40.0,Gy,0.035,cc
+Brainstem,Vmax,52.0,Gy,5.000,cc
+Brainstem,Vmax,60.0,Gy,0.035,cc
+Spinal Cord,Vmax,47.4,Gy,5.000,cc
+Spinal Cord,Vmax,52.8,Gy,0.035,cc
+Medulla,Vmax,47.4,Gy,5.000,cc
+Medulla,Vmax,52.8,Gy,0.035,cc
+Parotid,Vmax,20.0,Gy,7.000,cc
+Parotid,Vmax,32.0,Gy,0.035,cc
+Parotid,Mean Dose,NA,NA,26.000,Gy
+Larynx,Vmax,39.0,Gy,3.000,cc
+Larynx,Vmax,63.0,Gy,0.035,cc
+TM Joint,Vmax,60.0,Gy,1.000,cc
+TM Joint,Vmax,65.0,Gy,0.035,cc
+Cauda Equina,Vmax,50.0,Gy,5.000,cc
+Cauda Equina,Vmax,60.0,Gy,0.035,cc
+Sacral Plexus,Vmax,50.0,Gy,5.000,cc
+Sacral Plexus,Vmax,60.0,Gy,0.035,cc
+Esophagus,Vmax,51.0,Gy,5.000,cc
+Esophagus,Vmax,60.0,Gy,0.035,cc
+Brachial Plexus,Vmax,62.0,Gy,3.000,cc
+Brachial Plexus,Vmax,66.0,Gy,0.035,cc
+Heart,Vmax,56.0,Gy,15.000,cc
+Heart,Vmax,62.0,Gy,0.035,cc
+Great Vessels,Vmax,60.0,Gy,10.000,cc
+Great Vessels,Vmax,76.0,Gy,0.035,cc
+Large Bronchus,Vmax,60.0,Gy,5.000,cc
+Large Bronchus,Vmax,69.0,Gy,0.035,cc
+Skin,Vmax,70.0,Gy,10.000,cc
+Skin,Vmax,76.0,Gy,0.035,cc
+Stomach,Vmax,45.0,Gy,50.000,cc
+Stomach,Vmax,60.0,Gy,0.035,cc
+Duodenum,Vmax,45.0,Gy,5.000,cc
+Duodenum,Vmax,60.0,Gy,0.035,cc
+Jejunum/Ileum,Vmax,45.0,Gy,120.000,cc
+Jejunum/Ileum,Vmax,54.0,Gy,0.035,cc
+Renal Hilum,Vmax,42.0,Gy,15.000,cc
+Colon,Vmax,54.0,Gy,20.000,cc
+Colon,Vmax,70.0,Gy,0.035,cc
+Rectum,Vmax,75.0,Gy,10.000,cc
+Rectum,Vmax,70.0,Gy,20.000,cc
+Rectum,Vmax,65.0,Gy,30.000,cc
+Rectum,Vmax,60.0,Gy,40.000,cc
+Rectum,Vmax,79.0,Gy,0.035,cc
+Bladder,Vmax,70.0,Gy,90.000,cc
+Bladder,Vmax,65.0,Gy,150.000,cc
+Bladder,Vmax,79.0,Gy,0.035,cc
+Penile Bulb,Vmax,48.0,Gy,3.000,cc
+Penile Bulb,Vmax,56.0,Gy,0.035,cc
+Femoral Heads,Vmax,48.0,Gy,10.000,cc
+Femoral Heads,Vmax,56.0,Gy,0.035,cc
+Lungs-PTV Male,Vmin,18.0,Gy,1500.000,cc
+Lungs-PTV Female,Vmin,18.0,Gy,950.000,cc
+Lung-PTV,Vmax,20.0,Gy,37.000,%
+Liver-PTV,Vmin,36.0,Gy,700.000,cc
+Kidneys,Vmin,27.0,Gy,200.000,cc
